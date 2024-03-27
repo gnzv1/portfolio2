@@ -1,7 +1,7 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
-		"end": "Hello, my name is",
+		"start": "¿Necesitas apoyo con tus proyectos de HR?",
+		"end": "¡Habla con nosotros!",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
