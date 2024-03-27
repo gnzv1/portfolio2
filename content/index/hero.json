@@ -12,14 +12,14 @@
 
 	"header": {
 		"name": "Triángulo Consultores.",
-		"usp": "I design and build meaningful experiences."
+		"usp": "Hunting, DO y R&S"
 	},
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+	"paragraph": "Atraemos y Seleccionamos el Talento adecuado para cada Organización",
 
 	"buttons": {
 		"primary": {
-			"title": "Contact Me",
+			"title": "Contacto",
 			"url": "",
 			"leaveSite": false
 		},

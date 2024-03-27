@@ -28,9 +28,9 @@ export default function About() {
 		<Section classProp={about.section}>	
 			<Container spacing={['verticalXXXLrg']}>
 				<SectionTitle
-					title="About Me"
-					preTitle="Synopsis"
-					subTitle="With a diverse skill set that includes UX design, UI design, full stack development, operational architecture, systems design, photography, and branding, I am a well-rounded digital professional."
+					title="Nosotros"
+					preTitle="Nuestra expertiz"
+					subTitle="Sabemos que las Personas son quienes generan la Cultura de las organizaciones, y no al revés."
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
@@ -39,20 +39,20 @@ export default function About() {
 					</div>
 					<div className={about.copy} >
 						<CopyBlock 
-							title="Softskills that pay the bills"
+							title="Consultoría en Recursos Humanos"
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my design and technical expertise—I also have strong leadership, time management, and multitasking skills—honed through my experience as a business owner / managing partner, husband, and father of two. Outside of work, I enjoy staying active through sports such as hockey and snowboarding. I am confident in my ability to bring passion and value to any project."
+							copy="Hemos estado en muchas oportunidades en el lado del Cliente. Sabemos lo necesario que es el alineamiento entre Consultores y Organizaciones, por lo que trabajamos con diversas plataformas y una reportería cercana, informativa y eficiente."
 						/>
 						<BadgesBlock 
-							title="Reasearch and planning" 
+							title="Roles específicos y de alta responsabilidad" 
 							containerClass={about.container}
 							list={methods} 
 							fullContainer="fullContainer"
 							block="methods" 
 							icon="fingerprint"
-							copy="One of my favorite aspects of creating is planning the architecture of a project. From Design Systems to Brand Strategy—I enjoy working with the many touch points of user experience."
+							copy="A lo largo de más de 10 años de experiencia en TA y HR, consideramos tener un amplio espectro de herramientas, hábilidades y background, que nos permiten entender todo tipo de requerimientos específicos, incluyendo tecnologías, lenguajes y frameworks de IT."
 							//invertedColor="invertedColor"
 							headerIcon={`${about.icon}`}
 						/>

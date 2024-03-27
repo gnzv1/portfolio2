@@ -1,10 +1,10 @@
 [
 	{
-		"project": "My Supply Co.",
+		"project": "Talent Acquisition",
 		"url": "https://mysupplyco.com",
 		"repo": "Private",
-		"descriptionTitle": "D2C & B2B ecommerce site and blog",
-		"description": "with elegant solutions for a complex codebase and customer journey.",
+		"descriptionTitle": "Somos expertos en Atracción del Talento. ",
+		"description": "Ofrecemos soluciones ágiles e integrales.",
 		"imageOptions": [
 		],
 		"images": [
@@ -27,11 +27,11 @@
 		]
 	},
 	{
-		"project": "andrewnelson.net",
+		"project": "Hunting",
 		"url": "https://github.com/atlamors/portfolio",
 		"repo": "Public",
-		"descriptionTitle": "An open source portfolio",
-		"description": "built on Next.js and React. A fast and agile MERN stack single page application.",
+		"descriptionTitle": "Más de 10 años de experiencia en Hunting de Posiciones Clave para distintas industrias. ",
+		"description": "Somos especializas en roles de alta complejidad: IT, Banca e Inversiones.",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
