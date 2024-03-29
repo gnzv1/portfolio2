@@ -28,22 +28,22 @@ export default function Technical() {
 		<Section classProp={`${about.section} borderBottom`}>	
 			<Container spacing={['verticalXXXLrg']}>
 				<SectionTitle
-					title="Technical"
-					preTitle="Hardskills"
-					subTitle="As a creative technologist, I craft intuitive digital experiences using a diverse set of tools and languages."
+					title="¿Cómo te podemos ayudar?"
+					preTitle="Lo que hacemos"
+					subTitle="Ofrecemos un servicio a medida, elaborado en base a las necesidades de cada organización, permitiendo atraer y contratar a los mejores candidatos para cada rol."
 				/>
 				<section className={`${about.content} ${about.container}`}>
 					<div className={about.copy}>
 						<CopyBlock 
-							title="Polymath foundations"
+							title="¿Qué nos diferencia del resto?"
 							icon={[ 'fat', 'chart-network' ]}
-							copy="With a strong foundation in both design and development, I bring a unique perspective to every project and am constantly learning and evolving to stay up-to-date with the latest industry trends."
+							copy="Somos apasionados por el aprendizaje. Nos destacamos por conocer cada rol en profundidad, levantando detalles específicos que nos permitan realizar la búsqueda en el lugar idóneo"
 							iconClass={about.icon}
 							containerClass={about.container}
 						/>
 						<BadgesBlock 
-							title="Software I love to work with" 
-							copy="With over 20 years of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
+							title="Tecnología y roles remotos" 
+							copy="Entendemos las dificultades de encontrar perfiles específicos, por lo que trabajamos con diferentes Portales de Reclutamiento"
 							list={software}
 							block="software" 
 							fullContainer="fullContainer"
@@ -52,8 +52,8 @@ export default function Technical() {
 							headerIcon={about.icon} 
 						/>
 						<BadgesBlock 
-							title="Technologies I love to build with" 
-							copy="I deeply enjoy solving problems through code. From the front end all the way to the back end and the APIs in-between. No project is too challenging for me."
+							title="Desarrollo de Proyectos" 
+							copy="¿Tienes una idea para desarrollar en tu Organización, pero no cuentas con los recursos ni el tiempo necesarios? ¡Podemos ayudarte! Desarrollamos políticas corporativas y proyectos a medida, acompañandote en cada una de las fases del desarrollo de tu idea"
 							list={tech} 
 							block="tech"
 							fullContainer="fullContainer" 
