@@ -1,11 +1,9 @@
 {
 	"scripts": {
-		"dev": "next",
+		"dev": "node server.js",
 		"build": "next build",
-		"start": "next start",
-		"lint": "next lint",
-		"test": "jest --watch"
-	},
+		"start": "NODE_ENV=production node server.js"
+	  },
 	"dependencies": {
 		"@fontsource/fira-code": "^4.5.12",
 		"@fontsource/inter": "^4.5.14",
